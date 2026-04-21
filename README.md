@@ -10,7 +10,7 @@
   </head>
   <body>
       <h1>Meus projetos - Rydhwan H. El Ourra</h1>
-      <h2>Web Dev em formação</h2>
+      <h2>Desenvolvedor Web em formação</h2>
       <hr />
       <h3><a href="./public/top-3-filmes-ranking-rydhwan.html">Projeto Ranking de filmes</a></h3>
       <a><img src="./assets/images/top-3-filmes-ranking-rydhwan.png" height="200" alt="Ranking de Filmes Rydhwan"/></a>
