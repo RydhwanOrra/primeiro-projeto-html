@@ -12,15 +12,15 @@
       <h1>Meus projetos - Rydhwan H. El Ourra</h1>
       <h2>Desenvolvedor Web em formação</h2>
       <hr />
-      <h3><a href="./public/top-3-filmes-ranking-rydhwan.html">Projeto Ranking de filmes</a></h3>
-      <a><img src="./assets/images/top-3-filmes-ranking-rydhwan.png" height="200" alt="Ranking de Filmes Rydhwan"/></a>
+      <h3><a href="./top-3-filmes-ranking-rydhwan.html">Projeto Ranking de filmes</a></h3>
+      <a><img src="./top-3-filmes-ranking-rydhwan.png" height="200" alt="Ranking de Filmes Rydhwan"/></a>
       <hr />
-      <h3><a href="./public/convite-de-aniversario-rydhwan.html">Projeto Convite de Aniversário</a></h3>
-      <a><img src="./assets/images/convite-de-aniversario-rydhwan.png" height="200" alt="Convite de aniversário Rydhwan"/></a>
+      <h3><a href="./convite-de-aniversario-rydhwan.html">Projeto Convite de Aniversário</a></h3>
+      <a><img src="./convite-de-aniversario-rydhwan.png" height="200" alt="Convite de aniversário Rydhwan"/></a>
       <hr />
       <h3>
-         <a href="./public/about.html">Sobre mim</a>
-         <a href="./public/contact.html">Fale comigo</a>
+         <a href="./about.html">Sobre mim</a>
+         <a href="./contact.html">Fale comigo</a>
       </h3>
   </body>
 </html>
